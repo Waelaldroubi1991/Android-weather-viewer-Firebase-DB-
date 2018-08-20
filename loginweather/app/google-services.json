@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "326067520077",
+    "firebase_url": "https://loginweather-b6741.firebaseio.com",
+    "project_id": "loginweather-b6741",
+    "storage_bucket": "loginweather-b6741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326067520077:android:a866f38959843ea4",
+        "android_client_info": {
+          "package_name": "com.example.waelaldroubi.loginweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326067520077-amnirvrhmulof1g1ouf3u655i7tmd0vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2VEQpobXW4baOECwoj-7BHyupTI2p3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
